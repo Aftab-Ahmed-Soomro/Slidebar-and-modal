@@ -1,0 +1,29 @@
+* {
+    font-family: "Lato", sans-serif;
+}
+.fa-bars {
+    cursor: pointer;
+}
+.modal {
+    display: none;
+}
+.fa-xmark {
+    cursor: pointer;
+}
+ul li{
+    list-style: none;
+}
+ul {
+    width: 140px;
+}
+.img-container {
+    object-fit: contain;
+}
+.img {
+    border-radius: 100%;
+    width: 90px;
+    object-fit: contain;
+}
+#ham-menu {
+    display: none;
+}
